@@ -1,0 +1,20 @@
+#BlockEffect plugin by HiroTeam | Plugin de BlockEffect par la HiroTeam
+#██╗░░██╗██╗██████╗░░█████╗░████████╗███████╗░█████╗░███╗░░░███╗
+#██║░░██║██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗████╗░████║
+#███████║██║██████╔╝██║░░██║░░░██║░░░█████╗░░███████║██╔████╔██║
+#██╔══██║██║██╔══██╗██║░░██║░░░██║░░░██╔══╝░░██╔══██║██║╚██╔╝██║
+#██║░░██║██║██║░░██║╚█████╔╝░░░██║░░░███████╗██║░░██║██║░╚═╝░██║
+#╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
+#description:
+#ENG: Plugin that allows you to put an effect on a player when he steps on a block!
+#FRA: Plugin qui vous permet de mettre un effet a un joueur quand il marche sur un block !
+
+Stone: #DON'T PUT THE SAME NAME TWO TIME
+  block: "1:0" #ID:META
+  effect: "19:20:0" #EFFECTID:DURATION:LEVEL / DURATION = SECONDS / LEVEL 0 = 1
+  visible: "true" #TRUE OR FALSE / VISIBLE = PARTICLES
+
+Sand:
+  block: "12:0"
+  effect: "19:20:0"
+  visible: "true"
