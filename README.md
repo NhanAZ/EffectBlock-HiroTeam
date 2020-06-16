@@ -1,5 +1,5 @@
-# BlockEffect-HiroTeam
-![BlockEffect](https://zupimages.net/up/20/24/4988.png)
+# EffectBlock-HiroTeam
+![EffectBlock](https://zupimages.net/up/20/24/4988.png)
 ---
 ### About
 [ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) Very useful for melting items that we could not! Very useful to make your friends fall into traps ! FULL CONFIG :grin:<br/><br/>
@@ -34,7 +34,7 @@
 > ╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
 ---
 ### License
-HiroshimaTeam/BlockEffect-HiroTeam is licensed under the
+HiroshimaTeam/EffectBlock-HiroTeam is licensed under the
 
 > Apache License 2.0
 >A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express > grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
