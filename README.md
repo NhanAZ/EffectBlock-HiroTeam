@@ -12,7 +12,7 @@
 [FRA] Configurer dans le config.yml le bloc et l'effet que vous souhaitez lui appliquer ! Vous avez la possibilité d'en ajouter autant que vous le souhaitez !</br>
 
 ##### Here is the video:
-- BlockEffect Pocketmine plugin in [Youtube](https://www.youtube.com/watch?v=0a-AddTlKqQ) !
+- BlockEffect Pocketmine plugin in [Youtube](https://www.youtube.com/watch?v=3ZpKVyi6JRw) !
 ---
 ### **This plugin was tested (and works) on:**
 
