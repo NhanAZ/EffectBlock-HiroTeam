@@ -2,8 +2,8 @@
 ![EffectBlock](https://zupimages.net/up/20/24/4988.png)
 ---
 ### About
-[ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) Very useful for melting items that we could not! Very useful to make your friends fall into traps ! FULL CONFIG :grin:<br/><br/>
-[FRA] C'est un [PocketMine-MP](https://github.com/pmmp/PocketMine-MP)  Tres utile pour faire fondre des items qu'on ne pouvait pas !  Très utile pour faire tomber vos amis dans des pièges ! FULL CONFIG :grin:
+[ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) Very useful to make your friends fall into traps ! FULL CONFIG :grin:<br/><br/>
+[FRA] C'est un [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) Très utile pour faire tomber vos amis dans des pièges ! FULL CONFIG :grin:
 
 ---
 ### How to use
