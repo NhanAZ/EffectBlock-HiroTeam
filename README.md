@@ -20,13 +20,13 @@
 ---
 ### **LordHosting Partner**
 
-- [ENG] Our team is in partnership with Lordhosting, Minecraft PE server Hosting, VPS hosting use reduction code HIROTEAM 10% FREE 
-Website : https://clients.lordhosting.fr
-Discord : https://discord.gg/rRss47k
+- [ENG] Our team is in partnership with Lordhosting, Minecraft PE server Hosting, VPS hosting use reduction code HIROTEAM 10% FREE \n
+Website : https://clients.lordhosting.fr \n
+Discord : https://discord.gg/rRss47k \n
 
-- [FRA] Notre équipe est en partenariat avec Lordhosting, hébergement de serveurs Minecraft PE, VPS utilise le code de réduction HIROTEAM 10% DE REDUCTION
-Site Web: **[LordHosting Official Website](https://clients.lordhosting.fr)**
-Discord : **[LordHosting serveur discord](https://discord.gg/rRss47k)**
+- [FRA] Notre équipe est en partenariat avec Lordhosting, hébergement de serveurs Minecraft PE, VPS utilise le code de réduction HIROTEAM 10% DE REDUCTION \n
+Site Web: https://clients.lordhosting.fr \n
+Discord : https://discord.gg/rRss47k \n
 ---
 ### Contacts HiroTeam
 
