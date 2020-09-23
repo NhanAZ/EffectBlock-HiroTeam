@@ -18,6 +18,16 @@
 
 - [x] **[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)**
 ---
+### **LordHosting Partner**
+
+- Our team is in partnership with Lordhosting, Minecraft PE server Hosting, VPS hosting use reduction code HIROTEAM 10% FREE 
+Website : https://clients.lordhosting.fr
+Discord : https://discord.gg/rRss47k
+
+- Notre équipe est en partenariat avec Lordhosting, hébergement de serveurs Minecraft PE, VPS utilise le code de réduction HIROTEAM 10% DE REDUCTION
+Site Web: https://clients.lordhosting.fr
+Discord : https://discord.gg/rRss47k
+---
 ### Contacts HiroTeam
 
 - **Discord Member:** WillyDuGang#6947 RomainSav#9558
