@@ -11,7 +11,7 @@ class BlockEffect extends PluginBase implements Listener {
     public $config;
     protected static $instance;
 
-    public function onEnable() {
+    protected function onEnable(): void {
 
         self::$instance = $this;
 
