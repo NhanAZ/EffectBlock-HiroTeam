@@ -10,7 +10,8 @@ use pocketmine\event\player\PlayerMoveEvent;
 
 class BlockEffectListener implements Listener {
 
-    private $main;
+    private BlockEffect $main;
+
     public function __construct(BlockEffect $main) {
         $this->main = $main;
     }
@@ -18,7 +19,7 @@ class BlockEffectListener implements Listener {
     public function onBlock(PlayerMoveEvent $event) {
         $player = $event->getPlayer();
 
-        foreach ($this->main->config->getAll() as $item => $parametre) {
+        foreach ($this->main->getConfig()->getAll() as $item => $parametre) {
             $poisonBlock = $parametre['block'];
 
             $block = $player->getWorld()->getBlock($event->getPlayer()->getPosition()->down());
